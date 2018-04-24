@@ -1,2 +1,2 @@
-# samople
+# sample
 サンプル
